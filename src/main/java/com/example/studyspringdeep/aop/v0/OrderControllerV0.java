@@ -1,4 +1,4 @@
-package com.example.studyspringdeep.v0;
+package com.example.studyspringdeep.aop.v0;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
